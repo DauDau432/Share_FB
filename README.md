@@ -1,5 +1,5 @@
 # Share Facebook ảo
-- dán cookie vào file ck.txt rồi chạy file sharefb.py 
+- dán cookie vào file ck.txt rồi chạy file fb.py 
 
 - nhập tên file cookie 
 
